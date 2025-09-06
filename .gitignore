@@ -192,8 +192,15 @@ pyrightconfig.json
 .history
 .ionide
 
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+
 ### Github ###
 .github/chatmodes
 .github/copilot-instructions.md
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+### Project ###
+# Ignore Temp files (Input output)
+app/app/output
+app/app/uploads
+app/output
+app/uploads
